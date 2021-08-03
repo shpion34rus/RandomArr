@@ -1,6 +1,7 @@
-\__history
-\__recovery
-\__astcache
-\Win32
-\Win64
-\.git
+/__history
+/__recovery
+/__astcache
+/Win32
+/Win64
+/.git
+*.res
