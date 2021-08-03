@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.08.03 15:09:37.272,=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.08.03 15:09:37.682,=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.08.03 15:10:20.737,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\RandomArr\MainUnit.cpp=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.08.03 15:10:20.737,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\RandomArr\MainUnit.h=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.08.03 15:10:20.737,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\RandomArr\MainUnit.dfm=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.08.03 15:10:42.781,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\RandomArr\RandomArrPCH1.h=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.08.03 15:10:49.450,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\RandomArr\RandomArr.cbproj=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
